@@ -1,0 +1,12 @@
+org/academiadecodigo/bootcamp/model/Bootcamp.class
+org/academiadecodigo/bootcamp/service/MockBootcampService.class
+org/academiadecodigo/bootcamp/app/AppMain.class
+org/academiadecodigo/bootcamp/app/Attribute.class
+org/academiadecodigo/bootcamp/service/UserService.class
+org/academiadecodigo/bootcamp/service/MockUserService.class
+org/academiadecodigo/bootcamp/auth/Authenticator.class
+org/academiadecodigo/bootcamp/controller/UserController.class
+org/academiadecodigo/bootcamp/model/User.class
+org/academiadecodigo/bootcamp/service/BootcampService.class
+org/academiadecodigo/bootcamp/controller/LoginController.class
+org/academiadecodigo/bootcamp/controller/BootcampController.class

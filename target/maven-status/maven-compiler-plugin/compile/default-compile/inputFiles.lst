@@ -1,0 +1,12 @@
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/model/Bootcamp.java
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/controller/LoginController.java
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/model/User.java
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/service/UserService.java
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/service/MockBootcampService.java
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/controller/BootcampController.java
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/service/MockUserService.java
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/auth/Authenticator.java
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/app/Attribute.java
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/app/AppMain.java
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/service/BootcampService.java
+/home/pedro/production/webbootcampsolution/src/main/java/org/academiadecodigo/bootcamp/controller/UserController.java
